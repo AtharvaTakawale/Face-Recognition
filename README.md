@@ -1,4 +1,4 @@
-Face Recognition System Using Deep Learning
+**Face Recognition System Using Deep Learning**
 
 🎯 Objective
 
